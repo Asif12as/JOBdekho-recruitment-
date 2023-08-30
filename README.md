@@ -1,6 +1,6 @@
 # JOBrecruitmentPORTAL
 
-# Job Recruitment System using PHP, MySQL, CSS, and JavaScript
+# Job Recruitment web, MySQL, CSS, and JavaScript
 
 ![Project Logo](link_to_logo_if_available)
 
