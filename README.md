@@ -1,4 +1,4 @@
-# JOBrecruitmentPORTAL
+# recruitmentPORTAL
 
 # Job Recruitment web, MySQL, CSS, and JavaScript
 
